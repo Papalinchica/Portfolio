@@ -1,0 +1,79 @@
+.backcolor{
+    background-color: gray;
+    margin: 0%;
+}
+.alignment{
+  
+    
+    left: 0px;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  
+    
+}
+
+.text{
+
+    margin:5px ;
+    font-weight: bold;
+    color: aliceblue;
+
+}
+
+.back{
+    background-image: url(https://top-fon.com/uploads/posts/2022-09/1663724080_32-top-fon-com-p-serii-fon-dlya-telefona-odnotonnii-foto-38.jpg);
+}
+
+.color{
+    color: aliceblue;
+}
+
+
+.alignmentImg{
+  
+    
+    left: 0px;
+    height: 1px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  
+    
+}
+
+.margin{
+    margin: 2%;
+}
+
+.hr {
+	margin: 20px 0;
+	padding: 0;
+	height: 6px;
+	border: none;
+	background: linear-gradient(45deg, #333, #ddd);
+}
+
+.backTwo{
+    background-image: url(https://phonoteka.org/uploads/posts/2022-01/1643217843_64-phonoteka-org-p-serii-gradientnii-fon-67.jpg);
+}
+
+.footer{
+
+    background-color: #24262b;
+    padding: 70px 0;
+}
+.divFooter{
+    max-width: 1170px;
+	margin:auto;
+}
+.foFooter{
+    width: 25%;
+    padding: 0 15px;
+}
+
+.marginFooter{
+
+    margin-bottom: 0%;
+}
